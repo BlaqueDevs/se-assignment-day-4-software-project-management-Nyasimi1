@@ -74,7 +74,29 @@
   3. Improves risk management.
   4. Easy to track project progress.
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
+- Benefits of a detailed project schedule;
+  1. Ensures tasks are completed on time.
+  2. Helps in prioritizes tasks that determine project duration.
+  3. Helps anticipate and mitigate risks.
+  4. Ensures tasks are completed in the correct sequence.
+  5. Helps control costs by tracking task expenditures.
+- How Gantt charts help;
+  1. Offers a clear visual representation.
+  2. Assigns resources to tasks.
+  3. Marks completed tasks.
+  4. Exploring different possibilities.
+
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
+- Core Issues;
+  1. Irrelevant notifications- Job seekers often receive irrelevant job vacancy notification in arears they are not qualified or interested.
+  2. Difficulty in finding the right fit- Job seekers struggle to find relevant jobs, while employers find it challenging with qualified and trustable candidates.
+  3. Fake Job Listings and Applications- Both parties facee the risk of fake postings or applications, falling victim to scam.
+  4. Lack of knowledge about marketable skills- Job seekers may not know which skills are most sought after.
+- Significance;
+  1. Efficiency and Precision- Personalized notifications ensure that both job seekers and employers connect with relevant opportunities, saving time and improving match quality.
+  2. Security- The platform reduces the prevalence of fake listings and applications, creating a safer environment for both parties.
+  3. Career guidance: Highlighting in-demand skills benefits job seekers in enhancing their qualifications.
+
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
 ## 11. What are the main features or functionalities that make your software stand out?
