@@ -24,7 +24,33 @@
   4. Trunsparency in the project to avoid financial loopholes.
 
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
+- Agile method- This is an iterative approach that break the project down to small manageable units.
+- Advantages of Agile;
+  1. It allows for changes incase needed
+  2. Delivers work early to the market providing enough time for feedback and changes.
+  3. Quality work overall due to regular feedback and adjustment.
+- Disadvantage of Agile;
+  1. Difficult to predict deadlines and expenses.
+  2. High risk of scope creep.
+- Waterfall method- This is a linear stepwise process, where each phase must be completed before the next begins.
+- Advantage of Waterfall;
+  1. Based on a clear structure hence easy to track project progress.
+  2. Low scope creep since requirements are defined and agreed upfront.
+  3. Predictable deadlines and costs.
+- Disadvantage of Waterfall;
+  1. Inflexible to changes.
+  2. Long delivery time.
+  3. Requires extensive planning.
+
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
+- Waterfall is best for projects that are limited to change, well-defined requirements, and a clear plan from the beginnig to the end.
+-  Examples;
+  1. Construction of a building since it requares a stepwise plan from the foundation to the roofing.
+  2. Goverment project such as KRA where changes are unexpected.
+-  Agile is best applicable for projects where changes are expected, clients demand quick delivery of working and personalized features.
+-  Examples;
+  1. Developing a gamming app such as eFootball where fearures change based on gamers' demand.
+  2. Developing a commercial platform where changes can be made based on customer demands.
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
