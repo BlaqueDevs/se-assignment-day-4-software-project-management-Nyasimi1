@@ -51,8 +51,28 @@
 -  Examples;
   1. Developing a gamming app such as eFootball where fearures change based on gamers' demand.
   2. Developing a commercial platform where changes can be made based on customer demands.
+
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
+- Methods for ensuring quality assurance;
+  1. Automated testing to detect issues early.
+  2. Continuous code review.
+  3. Establishing checkpoints to assess quality and progress of the project.
+  4. Continuous improvement.
+  5.  Well documentation for easy maintenance and tracking.
+- Why is it important;
+  1. To meet customer expectations.
+  2. Enhanced reputation of delivering quality work to attract more clients.
+  3. Reduce post release expenses in fixing issues.
+  4. To ensure compliance with industrial regulations.
+
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
+- Project scope to set a clear project objective, expectations, and risk management.
+- WBS is a hierarchical project breakdown into small manageable tasks.
+- why is it useful;
+  1. Easy allocation resources
+  2. Improves accuracy of cost estimation.
+  3. Improves risk management.
+  4. Easy to track project progress.
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
